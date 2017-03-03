@@ -20,6 +20,7 @@ namespace ImageDisplay
 			// and attach an event to it
 			Button button = FindViewById<Button>(Resource.Id.myButton);
 
+
 			button.Click += delegate { button.Text = $"{count++} clicks!"; };
 		}
 	}
