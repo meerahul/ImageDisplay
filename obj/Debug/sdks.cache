@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>25</AndroidApiLevel>
+  <AndroidApiLevelName>25</AndroidApiLevelName>
+  <AndroidNdkPath>/Users/optimus/Documents/AndroidNDK/NDK_Mac/android-ndk-r10d</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>/Users/optimus/Documents/AndroidSDK/android-sdk/build-tools/25.0.2</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>/Users/optimus/Documents/AndroidSDK/android-sdk/build-tools/25.0.2</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>/Users/optimus/Documents/AndroidSDK/android-sdk</AndroidSdkPath>
+  <JavaSdkPath>/usr</JavaSdkPath>
+  <MonoAndroidBinPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/bin</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>/Library/Frameworks/Xamarin.Android.framework/Versions/Current/lib/mandroid</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+  <ZipAlignPath>/Users/optimus/Documents/AndroidSDK/android-sdk/build-tools/25.0.2</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>25</SupportedApiLevel>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
+</Sdk>
